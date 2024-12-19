@@ -1,4 +1,4 @@
-<p align="center">**Demo video at the bottom**</p>
+<p align="center">**Demo pictures at the bottom**</p>
 
 ###
 
