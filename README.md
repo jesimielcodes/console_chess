@@ -35,7 +35,7 @@
 
 ###
 
-<p align="left">Python Syntax<br>Python Pickle Library<br>Console-based interface</p>
+<p align="left">-Python Syntax<br>-Python Pickle Library<br>-Console-based interface</p>
 
 ###
 
@@ -51,7 +51,7 @@
 
 ###
 
-<p align="left">managing move validation rules</p>
+<p align="left">-managing move validation rules</p>
 
 ###
 
@@ -59,7 +59,7 @@
 
 ###
 
-<p align="left">-Responsive GUI integration (tkinter).<br>Implementing AI decision-making for opponent to allow single player<br>-Personalized themes and chessboard styles<br>-Simulation for suggested moves</p>
+<p align="left">-Responsive GUI integration (tkinter).<br>-Implementing AI decision-making for opponent to allow single player<br>-Personalized themes and chessboard styles<br>-Simulation for suggested moves</p>
 
 ###
 
