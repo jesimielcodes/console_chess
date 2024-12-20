@@ -2,7 +2,8 @@
 
 ###
 
-<h1 align="center">♜♞♝♛♚♟Chess Console♙♔♕♗♘♖</h1>
+<h1 align="center">Chess Console</h1>
+<h1 align="center">♜♞♝♛♚♟\/♙♔♕♗♘♖</h1>
 
 ###
 
