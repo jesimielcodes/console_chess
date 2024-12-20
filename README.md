@@ -56,7 +56,7 @@
 
 ###
 
-<h2 align="center">Checkmate Chance⚠️ (future updates)</h2>
+<h2 align="center">Pawn Promotion🎖️(future updates)</h2>
 
 ###
 
